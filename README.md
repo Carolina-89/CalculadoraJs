@@ -1,1 +1,3 @@
-# CalculadoraJs
+# CalculadoraJs | 
+
+inspired by: shorturl.at/owKMW
